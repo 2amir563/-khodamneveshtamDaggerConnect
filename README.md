@@ -31,4 +31,6 @@ sudo ./setup.sh
 ```
 wget -q -O setup.sh https://raw.githubusercontent.com/2amir563/-khodamneveshtamDaggerConnect/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
+فیلم اموزشی
 
+https://t.me/c/1527999098/15169
